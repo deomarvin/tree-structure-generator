@@ -44,11 +44,9 @@ src/
 ├── cg_data.json
 ├── components
 │   └── Home
-│       ├── Background.css
 │       └── Structure.jsx
 ├── index.css
 ├── index.js
-├── logo.svg
 ├── reportWebVitals.js
 └── setupTests.js
 ```

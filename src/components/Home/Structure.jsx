@@ -1,4 +1,3 @@
-import { Box } from "@mui/material";
 import cg_data from "../../cg_data.json";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -92,7 +91,7 @@ export default function Structure() {
   };
 
   return (
-    <Box sx={{ background: "#fff", p: 4 }}>
+    <div style={{ background: "#fff", padding: 80 }}>
       <center>
         {cg_data.map((r, index) => (
           <>
@@ -107,12 +106,12 @@ export default function Structure() {
                       textAlign: "center",
                     }}
                   >
-                    <Box
+                    <div
                       id={`tl${index}`}
-                      sx={{
+                      style={{
                         border: "1.5px solid #808080",
-                        p: 2,
-                        borderRadius: 4,
+                        padding: 20,
+                        borderRadius: 16,
                       }}
                     >
                       <b>
@@ -121,7 +120,7 @@ export default function Structure() {
                           : formatName(r?.name)}{" "}
                       </b>
                       &nbsp;({r.child.length} TL)
-                    </Box>
+                    </div>
                   </td>
                 </tr>
 
@@ -154,14 +153,14 @@ export default function Structure() {
                       }}
                     >
                       {" "}
-                      <Box id={`tl${index}-coach${i}`}>
+                      <div id={`tl${index}-coach${i}`}>
                         <b>
                           {Array.isArray(r2?.name)
                             ? r2.name.map((x) => formatName(x)).join(" & ")
                             : formatName(r2?.name || "")}
                         </b>
                         <br />({r2.child.length} CG)
-                      </Box>
+                      </div>
                     </td>
                   ))}
                 </tr>
@@ -196,19 +195,19 @@ export default function Structure() {
                             padding: 10,
                           }}
                         >
-                          <Box>
+                          <div>
                             {Array.isArray(item?.name)
                               ? item.name.map((x) => formatName(x)).join(" & ")
                               : formatName(item?.name || "")}
-                          </Box>
-                          <Box sx={{ py: 1 }}>
+                          </div>
+                          <div style={{ padding: "8px 0" }}>
                             <b>{item?.cg || ""}</b>
-                          </Box>
-                          <Box>
+                          </div>
+                          <div>
                             {item?.name
                               ? `Avg. Kehadiran: ${item?.attendance_average}`
                               : ""}
-                          </Box>
+                          </div>
                         </td>
                       );
                     })}
@@ -219,6 +218,6 @@ export default function Structure() {
           </>
         ))}
       </center>
-    </Box>
+    </div>
   );
 }
