@@ -1,0 +1,442 @@
+[
+  {
+    "name": ["Michael Chen (Mike)", "Sarah Rodriguez"],
+    "position": "TL",
+    "child": [
+      {
+        "name": ["David Thompson", "Emily Parker"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Jessica Zhang",
+            "cg": "CG YOUTH 101",
+            "attendance_average": 7
+          },
+          {
+            "name": ["Robert Kim", "Amanda Lee"],
+            "cg": "CG YOUTH 102",
+            "attendance_average": 9
+          },
+          {
+            "name": "Christopher Wong",
+            "cg": "CG YOUTH 103",
+            "attendance_average": 12
+          }
+        ]
+      },
+      {
+        "name": "Maria Garcia",
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["James Wilson", "Rachel Chen"],
+            "cg": "CG ENGLISH 201",
+            "attendance_average": 6
+          },
+          {
+            "name": "Patricia Martinez",
+            "cg": "CG ENGLISH 202",
+            "attendance_average": 8
+          },
+          {
+            "name": "Kevin Taylor",
+            "cg": "CG ENGLISH 203",
+            "attendance_average": 5
+          }
+        ]
+      },
+      {
+        "name": ["John Smith", "Lisa Johnson"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Daniel Brown", "Sophie Wang"],
+            "cg": "CG MANDARIN 301",
+            "attendance_average": 11
+          },
+          {
+            "name": ["William Davis", "Emma Liu"],
+            "cg": "CG MANDARIN 302",
+            "attendance_average": 15
+          },
+          {
+            "name": ["Thomas Anderson", "Michelle Ng"],
+            "cg": "CG MANDARIN 303",
+            "attendance_average": 13
+          }
+        ]
+      },
+      {
+        "name": ["Alex Turner", "Catherine Wong"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Ryan Miller",
+            "cg": "CG KOREAN 401",
+            "attendance_average": 8
+          },
+          {
+            "name": ["Peter Park", "Hannah Kim"],
+            "cg": "CG KOREAN 402",
+            "attendance_average": 10
+          },
+          {
+            "name": "Grace Lee",
+            "cg": "CG KOREAN 403",
+            "attendance_average": 7
+          }
+        ]
+      },
+      {
+        "name": "Andrew Jackson",
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Samuel Lee",
+            "cg": "CG CAMPUS 501",
+            "attendance_average": 9
+          },
+          {
+            "name": ["Benjamin Chang", "Victoria Wu"],
+            "cg": "CG CAMPUS 502",
+            "attendance_average": 12
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "name": ["Alexander Chang (Alex)", "Michelle Wong"],
+    "position": "TL",
+    "child": [
+      {
+        "name": ["Ryan Park", "Anna Li"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Jordan Chen",
+            "cg": "CG CAMPUS 201",
+            "attendance_average": 8
+          },
+          {
+            "name": ["Kevin Liu", "Emily Zhang"],
+            "cg": "CG CAMPUS 202",
+            "attendance_average": 12
+          }
+        ]
+      },
+      {
+        "name": "Sophia Rodriguez",
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Mark Johnson", "Lisa Wang"],
+            "cg": "CG YOUTH 301",
+            "attendance_average": 9
+          },
+          {
+            "name": "Crystal Lee",
+            "cg": "CG YOUTH 302",
+            "attendance_average": 15
+          },
+          {
+            "name": ["Daniel Kim", "Rachel Tan"],
+            "cg": "CG YOUTH 303",
+            "attendance_average": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": ["William Lee (Bill)", "Catherine Chen"],
+    "position": "TL",
+    "child": [
+      {
+        "name": ["Thomas Wu", "Jessica Lin"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Victoria Zhang",
+            "cg": "CG PROFESSIONAL 101",
+            "attendance_average": 13
+          },
+          {
+            "name": ["Andrew Tan", "Sophie Wang"],
+            "cg": "CG PROFESSIONAL 102",
+            "attendance_average": 7
+          },
+          {
+            "name": "Michael Chen",
+            "cg": "CG PROFESSIONAL 103",
+            "attendance_average": 10
+          }
+        ]
+      },
+      {
+        "name": "Grace Kim",
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Robert Ng", "Jennifer Lim"],
+            "cg": "CG FAMILY 401",
+            "attendance_average": 14
+          },
+          {
+            "name": "Patricia Lee",
+            "cg": "CG FAMILY 402",
+            "attendance_average": 9
+          }
+        ]
+      },
+      {
+        "name": ["David Chang", "Linda Liu"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Samuel Wong",
+            "cg": "CG INTERNATIONAL 501",
+            "attendance_average": 11
+          },
+          {
+            "name": ["Jason Chen", "Emma Park"],
+            "cg": "CG INTERNATIONAL 502",
+            "attendance_average": 8
+          },
+          {
+            "name": "Olivia Tan",
+            "cg": "CG INTERNATIONAL 503",
+            "attendance_average": 12
+          },
+          {
+            "name": ["Benjamin Lee", "Sarah Kim"],
+            "cg": "CG INTERNATIONAL 504",
+            "attendance_average": 10
+          }
+        ]
+      },
+      {
+        "name": ["Peter Zhang", "Maria Garcia"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Christopher Wang", "Hannah Chen"],
+            "cg": "CG SENIORS 601",
+            "attendance_average": 6
+          },
+          {
+            "name": "Elizabeth Kim",
+            "cg": "CG SENIORS 602",
+            "attendance_average": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": ["Joseph Tan (Joe)", "Rebecca Liu"],
+    "position": "TL",
+    "child": [
+      {
+        "name": "Isabella Chen",
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Matthew Wong", "Julia Zhang"],
+            "cg": "CG YOUNG ADULTS 701",
+            "attendance_average": 12
+          },
+          {
+            "name": "Nicholas Lee",
+            "cg": "CG YOUNG ADULTS 702",
+            "attendance_average": 9
+          },
+          {
+            "name": ["Brandon Kim", "Angela Wang"],
+            "cg": "CG YOUNG ADULTS 703",
+            "attendance_average": 15
+          },
+          {
+            "name": "Stephanie Chen",
+            "cg": "CG YOUNG ADULTS 704",
+            "attendance_average": 11
+          },
+          {
+            "name": ["Timothy Ng", "Michelle Park"],
+            "cg": "CG YOUNG ADULTS 705",
+            "attendance_average": 8
+          }
+        ]
+      },
+      {
+        "name": ["Jonathan Lee", "Amanda Wu"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Rachel Wong",
+            "cg": "CG COLLEGE 801",
+            "attendance_average": 10
+          },
+          {
+            "name": ["Eric Chen", "Karen Liu"],
+            "cg": "CG COLLEGE 802",
+            "attendance_average": 13
+          },
+          {
+            "name": "Michelle Zhang",
+            "cg": "CG COLLEGE 803",
+            "attendance_average": 7
+          }
+        ]
+      },
+      {
+        "name": ["Richard Wang", "Diana Chen"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Justin Kim", "Sophia Lee"],
+            "cg": "CG WORKING ADULTS 901",
+            "attendance_average": 14
+          },
+          {
+            "name": "Katherine Tan",
+            "cg": "CG WORKING ADULTS 902",
+            "attendance_average": 11
+          },
+          {
+            "name": ["Anthony Zhang", "Emily Chen"],
+            "cg": "CG WORKING ADULTS 903",
+            "attendance_average": 9
+          },
+          {
+            "name": "Daniel Wong",
+            "cg": "CG WORKING ADULTS 904",
+            "attendance_average": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": ["Jennifer Wu (Jenny)", "Richard Martinez"],
+    "position": "TL",
+    "child": [
+      {
+        "name": ["Marcus Singh", "Olivia Chen"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Isabella Kim",
+            "cg": "CG PROFESSIONAL 401",
+            "attendance_average": 11
+          },
+          {
+            "name": ["Nathan Patel", "Sophie Zhang"],
+            "cg": "CG PROFESSIONAL 402",
+            "attendance_average": 8
+          },
+          {
+            "name": "Lucas Wang",
+            "cg": "CG PROFESSIONAL 403",
+            "attendance_average": 13
+          },
+          {
+            "name": "Sophia Lee",
+            "cg": "CG PROFESSIONAL 404",
+            "attendance_average": 9
+          }
+        ]
+      },
+      {
+        "name": ["Jason Thompson", "Diana Liu"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["George Williams", "Emma Chen"],
+            "cg": "CG FAMILY 301",
+            "attendance_average": 12
+          },
+          {
+            "name": ["Michael Zhang", "Linda Park"],
+            "cg": "CG FAMILY 302",
+            "attendance_average": 15
+          },
+          {
+            "name": "Rebecca Johnson",
+            "cg": "CG FAMILY 303",
+            "attendance_average": 7
+          }
+        ]
+      },
+      {
+        "name": "Ethan Brooks",
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Anthony Lee", "Michelle Tan"],
+            "cg": "CG INTERNATIONAL 201",
+            "attendance_average": 10
+          },
+          {
+            "name": "Karen Wong",
+            "cg": "CG INTERNATIONAL 202",
+            "attendance_average": 14
+          },
+          {
+            "name": ["David Chen", "Sarah Kim"],
+            "cg": "CG INTERNATIONAL 203",
+            "attendance_average": 6
+          },
+          {
+            "name": "Timothy Jackson",
+            "cg": "CG INTERNATIONAL 204",
+            "attendance_average": 8
+          }
+        ]
+      },
+      {
+        "name": ["Adrian Ng", "Rachel Tan"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": "Elizabeth Chang",
+            "cg": "CG YOUNG ADULTS 101",
+            "attendance_average": 9
+          },
+          {
+            "name": ["Samuel Lim", "Grace Teo"],
+            "cg": "CG YOUNG ADULTS 102",
+            "attendance_average": 11
+          },
+          {
+            "name": ["Daniel Koh", "Natalie Wu"],
+            "cg": "CG YOUNG ADULTS 103",
+            "attendance_average": 13
+          }
+        ]
+      },
+      {
+        "name": ["Justin Lee", "Stephanie Yap"],
+        "position": "Coach",
+        "child": [
+          {
+            "name": ["Brandon Tan", "Melissa Liu"],
+            "cg": "CG SENIORS 501",
+            "attendance_average": 7
+          },
+          {
+            "name": "Christine Wang",
+            "cg": "CG SENIORS 502",
+            "attendance_average": 10
+          },
+          {
+            "name": ["Peter Goh", "Hannah Chen"],
+            "cg": "CG SENIORS 503",
+            "attendance_average": 12
+          }
+        ]
+      }
+    ]
+  }
+]
